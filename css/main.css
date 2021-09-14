@@ -51,6 +51,10 @@
  * # base style overrides
  *
  * ------------------------------------------------------------------- */
+.project{
+  font-size:20px;
+  color:white;
+}
 html {
   font-size: 10px;
 }
@@ -152,7 +156,7 @@ h1, .h1 {
 }
 
 h2, .h2 {
-  font-size: 3rem;
+  font-size: 7rem;
   line-height: 1.2;
 }
 
